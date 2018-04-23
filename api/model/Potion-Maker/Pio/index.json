@@ -45,6 +45,11 @@
 			{"file":"motions/Touch4.mtn"},
 			{"file":"motions/Touch5.mtn"},
 			{"file":"motions/Touch6.mtn"}
+		],
+		"talk":[
+			{"file":"motions/Talk1.mtn"},
+			{"file":"motions/Talk2.mtn"}
+
 		]
 	}
 }
